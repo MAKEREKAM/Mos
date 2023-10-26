@@ -1,0 +1,7 @@
+name: Mos
+version: 1.0 # 수정 가능
+main: kr.vanilage.main.Main
+api-version: '1.20' # 수정 가능
+
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.9.10 # Kotlin 버전을 수정하세요.
